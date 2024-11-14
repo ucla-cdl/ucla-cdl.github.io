@@ -1,0 +1,58 @@
+
+prof-eunice:
+    display_name: "Eunice Jun"
+    role: faculty
+    image: assets/images/people/eunice-jun.png
+    title: Professor
+    interests: HCI, all things data, causal inference, PL; tea, art, film
+    website: "https://eunicemjun.com"
+    github: emjun
+
+# profx:
+#     display_name: "Professor X"
+#     webpage: "http://en.wikipedia.org/wiki/Professor_X"
+#     github: profx
+#     role: faculty
+#     image: /img/people/prof-x.png
+#     bio: Professor
+
+grad-bielicke:
+    display_name: "London Bielicke"
+    role: grad
+    image: "assets/images/people/london-bielicke.png"
+    title: PhD Student
+    interests: experimental design
+    website: "https://londonmae.github.io/"
+
+grad-xiao:
+    display_name: "Yuwei Xiao"
+    role: grad
+    image: "assets/images/people/yuwei-xiao.png"
+    title: PhD Student
+    interests: domain knowledge in statistical analysis; sports (🏀⚽🏈), sitcoms, Xbox, music
+    website: "https://xavierywx.github.io"
+
+# alum-a:
+#     display_name: "Alum A"
+#     role: alum
+#     bio: "Ph.D., 2013. Now at Microsoft Research."
+
+ugrad-chung:
+    display_name: "Katie Yung Chung"
+    role: ugrad
+    image: "assets/images/people/katie-yung-chung.png"
+    title: Undergraduate Student
+    interests: exploring research; digital art & animation, film, music
+    website: "https://bit.ly/katieyungchung"
+
+# ugrad-alum-a:
+#     display_name: "Past Ugrad A"
+#     role: ugrad-alum
+
+# collab-b:
+#     display_name: "Collaborator B With Long Name"
+#     role: collab
+
+# collab-a:
+#     display_name: "Collaborator A"
+#     role: collab

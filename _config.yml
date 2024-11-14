@@ -27,7 +27,7 @@ title: UCLA CDL
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "ucla-cdl.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: eunicemjun
-# github_username:  emjun
+github_username: "ucla-cdl"
 
 # Build settings
 theme: minima
@@ -68,9 +68,27 @@ scholar:
 # colorize code snippets with the pygments module
 highlighter: rouge
 
-
 # Base pathname for links.
 base: ''
+
+# Sections on the "group" page.
+roles:
+  - key: faculty
+    name: Faculty
+  - key: staff
+    name: Staff
+  - key: postdoc
+    name: Researchers
+  - key: grad
+    name: Graduate Students
+  - key: ugrad
+    name: Undergraduate Students
+  - key: ugrad-alum
+    name: Past Undergraduate Students
+  - key: collab
+    name: Collaborators
+  - key: alum
+    name: Alumni
 
 # Navigation bar links.
 # navigation:

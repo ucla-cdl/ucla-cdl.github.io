@@ -3,7 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
+# groups of columns of {roles: list, width: num, image: bool}
+role-tables:
+- - roles: [faculty, grad, masters, ugrad]
+    width: 4
+    image: true
+- - roles: [collab, alum, ugrad-alum]
+    width: 5
+    image: false
 ---
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.2.1/dist/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"> -->
 <style type="text/css" media="screen">
 
 
@@ -37,8 +47,29 @@ Our mission is to understand real-world users, design usable abstractions, and d
 
 ## People
 
-
-## Recent publications
+<!-- <p>{{site.data.people}}</p> -->
+<!-- {% for role-table in page.role-tables %}
+  <p>{{role-table}}</p>
+  {% for role in role-table.roles %}
+    <p>{{role}}</p>
+    <p>{{role-table.roles}}</p>
+  {% endfor %}
+{% endfor %} -->
+<div class="container-fluid">
+<div class="photo-row">
+  {% for item in site.data.people %}
+      {%assign person = item[1] %}
+      <div class="photo-item" stlye="height:200px; width:200px; overflow: hidden;">
+        <img src="{{person.image}}"/>
+        <div class="photo-info">
+          <a class="photo-name" href="{{person.website}}">{{person.display_name}}</a>
+          <p class="photo-title">{{person.title}}</p>
+          <p class="photo-title">{{person.interests}}</p>
+        </div>
+      </div>
+  {% endfor %}
+</div>
+</div>
 
 ## Courses
 <a href="https://docs.google.com/document/d/11U6mRCJ223FE_ajKWiLYuXw5qHYmw4_5WZINPUmrSRk/edit?tab=t.0#heading=h.uvv6b2s0nzj">CS 239 (Grad) Introduction to Human-Computer Interaction (Winter 2025)</a>

@@ -12,7 +12,7 @@ Loads Google Fonts programmatically. [See the steps here.](https://stackoverflow
 
 # Landing page
 People section: 
-- Add pictures, web page links, a few words to describe current work, a few words to describe other interests
+[x] Add pictures, web page links, a few words to describe current work, a few words to describe other interests
 
 Publication section: 
 - For now: Populate with latest papers 
