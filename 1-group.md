@@ -71,6 +71,7 @@ Excellence is engaging in the following process:
   <li><a href="https://emeryberger.com/">Emery Berger</a></li>
   <li><a href="http://adam.chlipala.net/">Adam Chlipala</a></li>
   <li><a href="https://www.cs.williams.edu/~freund/index.html">Steve Freund</a></li>
+  <li><a href="https://web.cs.ucla.edu/~poorvagarg/">Poorva Garg</a></li>
   <li><a href="https://people.eecs.berkeley.edu/~bjoern/">Bjoern Hartmann</a></li>
   <li><a href="https://khlevin.github.io/KylaHLevin/index.html">Kyla Levin</a></li>
   <li><a href="https://shuaima.cc/">Shuai Ma</a></li>

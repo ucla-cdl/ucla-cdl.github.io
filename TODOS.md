@@ -15,7 +15,7 @@ People section:
 [x] Add pictures, web page links, a few words to describe current work, a few words to describe other interests
 
 Publication section: 
-- For now: Populate with latest papers 
+- [x] For now: Populate with latest papers 
 - Very least: Group by research themes when we have more publications to showcase
     - Could be nice: Update with filters for paper themes
 
@@ -33,3 +33,16 @@ People, Papers, Code, Blog
 - Finish setting up Github org
 
 
+# Lab meeting feedback
+- update bios for everyone
+- add lab's full name on home page
+- update logos with color ones
+    - website
+    - Github
+- Update CNAME
+- Live on Monday with URL (cdl.cs.ucla.edu)!
+
+
+# Things we'd like to see: 
+- Filtering for publications (see CMU DIG website)
+- Video preview of latest work on home page
