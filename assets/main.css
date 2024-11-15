@@ -369,20 +369,38 @@ font-family: "IBM Plex Sans";
     object-fit: cover; /* for scaling */
 }
 
+/* Written with ChatGPT */
 .photo-info {
     padding: 10px;
     background-color: #fff;
 }
 
+/* Written with ChatGPT */
 .photo-name {
     font-size: 1.1em;
     font-weight: bold;
     margin: 5px 0 2px;
 }
 
+/* Written with ChatGPT */
 .photo-title {
     font-size: 0.9em;
     color: #555;
+    margin: 0;
+}
+
+/* Written with ChatGPT */
+.three-column-list {
+    column-count: 3;
+    column-gap: 20px; /* Adjust gap between columns */
+    list-style-type: none; /* Optional: Remove bullets */
+    padding: 0;
+}
+
+/* Written with ChatGPT */
+.no-bullets {
+    list-style-type: none;
+    padding: 0;
     margin: 0;
 }
 

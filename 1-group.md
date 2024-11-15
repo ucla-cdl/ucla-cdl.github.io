@@ -64,3 +64,20 @@ Excellence is engaging in the following process:
   {% endfor %}
 </div>
 </div>
+
+### Collaborators
+
+<ul class="three-column-list no-bullets">
+  <li><a href="https://emeryberger.com/">Emery Berger</a></li>
+  <li><a href="http://adam.chlipala.net/">Adam Chlipala</a></li>
+  <li><a href="https://www.cs.williams.edu/~freund/index.html">Steve Freund</a></li>
+  <li><a href="https://people.eecs.berkeley.edu/~bjoern/">Bjoern Hartmann</a></li>
+  <li><a href="https://khlevin.github.io/KylaHLevin/index.html">Kyla Levin</a></li>
+  <li><a href="https://shuaima.cc/">Shuai Ma</a></li>
+  <li><a href="https://users.aalto.fi/~oulasvir/">Antti Oulasvirta</a></li>
+  <li><a href="https://bayes.cs.ucla.edu/jp_home.html">Judea Pearl</a></li>
+  <li><a href="https://cvachha.github.io/">Cyrus Vaccha</a></li>
+  <li><a href="https://zamfi.net/">J.D. Zamfirescu-Pereira</a></li>
+  <li><a href="https://rrita-zejnullahi.netlify.app/">Rrita Zejnullahi</a></li>
+  <li><a href="https://www.linkedin.com/in/annazhang03/">Anna Zhang</a></li>
+</ul>
