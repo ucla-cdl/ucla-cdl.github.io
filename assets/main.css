@@ -331,6 +331,10 @@ ul {
 font-family: "IBM Plex Sans";
 }
 
+.logo img {
+    border-style: none;
+}
+
 /* Written with Chat GPT */
 .container-fluid {
     width: 100%;
