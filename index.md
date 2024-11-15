@@ -17,6 +17,7 @@ role-tables:
 <style type="text/css" media="screen">
 
 
+
   /* ul {
     margin: 0;
   } */
@@ -25,6 +26,8 @@ role-tables:
       font-family: 
   } */
 </style>
+
+<link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon">
 
 <div class="mission">
 We envision a future where anyone can use technology and data effectively to learn and make informed decisions that advance society.
@@ -64,7 +67,7 @@ Our mission is to understand real-world users, design usable abstractions, and d
         <div class="photo-info">
           <a class="photo-name" href="{{person.website}}">{{person.display_name}}</a>
           <p class="photo-title">{{person.title}}</p>
-          <p class="photo-title">{{person.interests}}</p>
+          <!-- <p class="photo-title">{{person.interests}}</p> -->
         </div>
       </div>
   {% endfor %}

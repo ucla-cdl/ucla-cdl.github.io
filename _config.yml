@@ -69,7 +69,7 @@ scholar:
 highlighter: rouge
 
 # Base pathname for links.
-base: ''
+baseurl: ''
 
 # Sections on the "group" page.
 roles:
