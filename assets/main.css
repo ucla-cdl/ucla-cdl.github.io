@@ -462,3 +462,16 @@ color: #ff9933;
     background-color: #DAEBFE;
     padding: 10px;
 }
+
+
+.headline-with-icon {
+    display: flex;
+    align-items: center;
+    /* gap: 5px; */
+}
+
+.headline-with-icon img {
+    width: 100px;
+    height: auto;
+    border-style: none;
+}

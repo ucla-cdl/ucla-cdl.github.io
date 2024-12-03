@@ -6,10 +6,10 @@ permalink: /group/
 
 <link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon">
 
-<div class="logo">
-    <img src="{{ site.baseurl }}/assets/images/cdl-logo-name.png" alt="CDL Logo">
-</div>
-<br>
+<!-- <div class="headline-with-icon">
+  <img src="{{site.url}}/assets/images/cdl-icon.png" alt="CDL Icon">
+  <h1>Computation & Discovery Lab</h1>
+</div> -->
 
 ## Join us!
 <div class="news">
