@@ -32,6 +32,14 @@ grad-xiao:
     interests: domain knowledge in statistical analysis; sports (🏀⚽🏈), sitcoms, Xbox, music
     website: "https://xavierywx.github.io"
 
+grad-simon:
+    display_name: "Brooke Simon"
+    role: grad
+    image: "assets/images/people/brooke-simon.png"
+    title: MS Student
+    interests: 
+    website: 
+
 # alum-a:
 #     display_name: "Alum A"
 #     role: alum
