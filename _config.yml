@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UCLA CDL
+title: UCLA C&DL
 # email: emjun(at)cs(dot)ucla(dot)edu
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Eunice M. Jun researches how to enable anyone to use technology and data
