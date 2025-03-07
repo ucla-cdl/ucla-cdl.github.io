@@ -94,12 +94,12 @@ roles:
 # navigation:
 #   - title: Home
 #     link: /
+#   - title: Group
+#     link: /group
 #   - title: Publications
-#     link: /publications.html
-#   - title: Software
-#     link: /software
-#   - title: CV
-#     link: /cv.html
+#     link: /publications
+#   - title: Courses
+#     link: /courses
 
 
 # Google fonts
