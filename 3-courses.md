@@ -7,12 +7,14 @@ permalink: /courses/
 ## 🤘✨ Winter 2025 Final Showcase -- COME! 
 <div class="news">
 When: <span style="font-weight:bold">Monday, March 17 @ 3:30-5:30pm</span>
-Where: <span style="font-weight:bold"><a href="https://maps.app.goo.gl/7BEFgHiWrz1QGpXC6">Engineering VI First Floor</a></span> (<a href="https://maps.app.goo.gl/1wKC7wjJkT4zXRs77">Visitor Parking</a>)
+<br>
+Where: <span style="font-weight:bold"><a href="https://maps.app.goo.gl/7BEFgHiWrz1QGpXC6">Engineering VI First Floor</a></span> (<a 
+href="https://maps.app.goo.gl/1wKC7wjJkT4zXRs77">Visitor Parking</a>)
 </div>
+
 
 Come learn what 10 teams designed and developed over the course of the quarter around the theme of
 <span style="font-weight:bold">Empowering users {with, through, about} data</span>.
-
 
 Teams will share their user research, demo their system implementations (you can try them!), and preview initial evaluation findings.
 

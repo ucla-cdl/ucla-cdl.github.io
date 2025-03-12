@@ -9,7 +9,7 @@ permalink: /group/
   <h1>Computation & Discovery Lab</h1>
 </div> -->
 
-## Join us!
+<!-- ## Join us!
 <div class="news">
     We are looking for postdocs, PhD students, Master's students, and undergraduates to join our group!
     <br>
@@ -18,10 +18,10 @@ permalink: /group/
         <li style="font-weight:bold">Postdocs</li> Expertise and interest in causal inference, Bayesian modeling, end-user programming, data visualization, and data science education ➡ <a href="https://docs.google.com/document/d/12J8GMA8MFmMvgR96Y-xfYTJl-DycgnHlzyE0PjP8fL0/">Submit your application.</a>
         <li style="font-weight:bold">PhD, Master's</li> Interest in HCI, data science, or programming languages research ➡ <a href="https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/">Apply to UCLA CS.</a> 
         <li style="font-weight:bold">UCLA Undergraduates</li> Interest in exploring HCI research, CS + X, data science ➡ <a href="https://forms.gle/K1bGJx1DScpt3cy88">Complete this interest form.</a>
-        <!-- * <span style="font-style:italic"> I'm especially interested in students who are majoring in {CS, Statistics} + Something Else to apply.</span> -->
+        * <span style="font-style:italic"> I'm especially interested in students who are majoring in {CS, Statistics} + Something Else to apply.</span>
     </ul> 
 </div>
-<br>
+<br> -->
 
 ## Values
 
