@@ -18,7 +18,7 @@ Come learn what 10 teams designed and developed over the course of the quarter a
 
 Teams will share their user research, demo their system implementations (you can try them!), and preview initial evaluation findings.
 
-Projects (student-designed icons forthcoming 👀): 
+Projects: 
 - PRViz: Arjun Aggarwal, Annaelle Biaget, Kaiqiao Han, Aman Manvattira, Burak Yetistiren
 - Code of Duty: London Bielicke, Sheriff Issaka, Salman Rahman, Shruti Tyagi
 - Chatty McChatFace: Daniel Kao, Hubert Tang, Kaiwen Xue, Hanger Yang
@@ -26,7 +26,7 @@ Projects (student-designed icons forthcoming 👀):
 - Cookie Monster: Kalyan Karamsetty, Beide Liu, Joseph Wong
 - re:ad: Ollie Pai, Brian Roysar, Michael Shi, Yuwei Xiao
 - ScriptPulse: Zihan Jiang, Weihan Qu, Ruichen Zheng
-- CS Dubz: Michael Simon, Matthew Workman, Ken Zhou
+- Claude, The Sonnet, and The Wholly Spearmint: Michael Simon, Matthew Workman, Ken Zhou
 - Re-defining Mobility and Accessibility: Medha Kini
 - Privacy Pal: Sruthi Rangarajan, Brooke Simon, Nikhil Suresh
 
