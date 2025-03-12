@@ -17,16 +17,16 @@ Come learn what 10 teams designed and developed over the course of the quarter a
 Teams will share their user research, demo their system implementations (you can try them!), and preview initial evaluation findings.
 
 Projects (student-designed icons forthcoming 👀): 
-- Improving Code Review: Arjun Aggarwal, Annaelle Biaget, Kaiqiao Han, Aman Manvattira, Burak Yetistiren
-- Enhancing Debugging of LLM-generated Code: London Bielicke, Sheriff Issaka, Salman Rahman, Shruti Tyagi
-- Language Learning: Daniel Kao, Hubert Tang, Kaiwen Xue, Hanger Yang
-- Managing Data Cookies: Kalyan Karamsetty, Beide Liu, Joseph Wong
-- Augmenting Data-intensive Reading: Ollie Pai, Brian Roysar, Michael Shi, Yuwei Xiao
-- Content Creation for Engagement: Zihan Jiang, Weihan Qu, Ruichen Zheng
-- Supporting TAs to Create Visually Accessible Slides: Shanmu Wang, Jay Zhou, Tiffany Zhou
-- Managing LLM Latency: Michael Simon, Matthew Workman, Ken Zhou
+- PRViz: Arjun Aggarwal, Annaelle Biaget, Kaiqiao Han, Aman Manvattira, Burak Yetistiren
+- Code of Duty: London Bielicke, Sheriff Issaka, Salman Rahman, Shruti Tyagi
+- Chatty McChatFace: Daniel Kao, Hubert Tang, Kaiwen Xue, Hanger Yang
+- ColorSense: Shanmu Wang, Tiffany Zhou, Xiaojie Zhou
+- Cookie Monster: Kalyan Karamsetty, Beide Liu, Joseph Wong
+- re:ad: Ollie Pai, Brian Roysar, Michael Shi, Yuwei Xiao
+- ScriptPulse: Zihan Jiang, Weihan Qu, Ruichen Zheng
+- CS Dubz: Michael Simon, Matthew Workman, Ken Zhou
 - Re-defining Mobility and Accessibility: Medha Kini
-- Data Privacy: Sruthi Rangarajan, Brooke Simon, Nikhil Suresh
+- Privacy Pal: Sruthi Rangarajan, Brooke Simon, Nikhil Suresh
 
 Light refreshments will be provided. 
 

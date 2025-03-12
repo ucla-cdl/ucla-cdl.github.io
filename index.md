@@ -38,7 +38,7 @@ We envision a future where anyone can use technology and data effectively to lea
 Our mission is to understand real-world users, design usable abstractions, and develop interactive reasoning approaches that empower people to make data-informed decisions.
 </div>
 <br>
-<div class="news">
+<!-- <div class="news">
     We are looking for postdocs, PhD students, Master's students, and undergraduates to join our group!
     <br>
     What we're looking for: 
@@ -47,7 +47,7 @@ Our mission is to understand real-world users, design usable abstractions, and d
         <li style="font-weight:bold">PhD, Master's</li> Interest in HCI, data science, or programming languages research ➡ <a href="https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/">Apply to UCLA CS.</a> 
         <li style="font-weight:bold">UCLA Undergraduates</li> Interest in exploring HCI research, CS + X, data science ➡ <a href="https://forms.gle/K1bGJx1DScpt3cy88">Complete this interest form.</a>
     </ul> 
-</div>
+</div> -->
 
 <br>
 
@@ -65,7 +65,7 @@ Our mission is to understand real-world users, design usable abstractions, and d
 <div class="photo-row">
   {% for item in site.data.people %}
       {%assign person = item[1] %}
-      <div class="photo-item" stlye="height:200px; width:200px; overflow: hidden;">
+      <div class="photo-item">
         <img src="{{person.image}}"/>
         <div class="photo-info">
           <a class="photo-name" href="{{person.website}}">{{person.display_name}}</a>
