@@ -88,6 +88,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     namae (1.2.0)
       racc (~> 1.7)
+    observer (0.1.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (7.0.5)
@@ -121,10 +122,11 @@ DEPENDENCIES
   jekyll-seo-tag (~> 2.8.0)
   kramdown-parser-gfm (~> 1.1)
   minima (= 2.5.1)
+  observer (~> 0.1)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.33
+   2.5.22

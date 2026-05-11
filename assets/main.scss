@@ -1,0 +1,194 @@
+---
+---
+
+@import "minima";
+
+.container {
+  margin: 10px auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px 0;
+  font-family: "IBM Plex Sans";
+  font-weight: bolder;
+  /* font-size: 4em; */
+  font-size: 24pt;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+h2 {
+  /* font-size: 3em; */
+  font-family: "IBM Plex Sans";
+  font-weight: bold;
+  font-size: 22pt;
+}
+
+h3 {
+  /* font-size: 2em; */
+  font-family: "IBM Plex Sans";
+  font-size: 18pt;
+}
+
+h4 {
+  /* font-size: 1em; */
+  font-family: "IBM Plex Sans";
+  font-size: 14pt;
+  font-style: italic;
+  margin: 0;
+}
+
+p {
+  font-family: "IBM Plex Sans";
+  font-weight: normal;
+}
+
+a {
+  font-family: "IBM Plex Sans";
+}
+
+img {
+  border-style: solid;
+  border-width: thin;
+  border-color: grey;
+}
+
+ul {
+  font-family: "IBM Plex Sans";
+}
+
+.logo img {
+  border-style: none;
+}
+
+.container-fluid {
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+.photo-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  row-gap: 10px;
+  justify-content: center;
+}
+
+.photo-item {
+  flex: 1 1 150px;
+  width: 25%;
+  height: auto;
+}
+
+.photo-item img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.photo-info {
+  padding: 10px;
+  background-color: #fff;
+}
+
+.photo-name {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin: 5px 0 2px;
+}
+
+.photo-title {
+  font-size: 0.9em;
+  color: #555;
+  margin: 0;
+}
+
+.three-column-list {
+  column-count: 3;
+  column-gap: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.no-bullets {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-name {
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.project-img {
+  width: 200px;
+  float: left;
+  margin-right: 10px;
+}
+
+.project-desc {
+  font-family: "IBM Plex Sans";
+  font-weight: normal;
+  float: left;
+  width: calc(100% - 200px - 10px);
+  margin-bottom: 20px;
+}
+
+.links {
+  font-family: "IBM Plex Mono";
+}
+
+.key-detail {
+  font-family: inherit;
+  font-style: italic;
+}
+
+.tisane {
+  font-family: inherit;
+  font-weight: bold;
+  color: #9494ff;
+}
+
+.tea {
+  font-family: inherit;
+  font-weight: bold;
+  color: #66cc99;
+}
+
+.hypoForm {
+  font-family: inherit;
+  font-weight: bold;
+  color: #ff9933;
+}
+
+.mission {
+  font-family: inherit;
+  font-size: larger;
+  padding: 10px;
+}
+
+.news {
+  font-family: inherit;
+  /* font-weight: bold; */
+  background-color: #DAEBFE;
+  padding: 10px;
+}
+
+.headline-with-icon {
+  display: flex;
+  align-items: center;
+  /* gap: 5px; */
+}
+
+.headline-with-icon img {
+  width: 100px;
+  height: auto;
+  border-style: none;
+}
