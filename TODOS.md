@@ -8,7 +8,7 @@ Some inspo:
 
 # Infra
 Add Google Analytics programmatically
-Loads Google Fonts programmatically. [See the steps here.](https://stackoverflow.com/questions/71803793/how-do-i-add-a-google-font-to-a-jekyll-theme)
+[x] Load Google Fonts programmatically. [See the steps here.](https://stackoverflow.com/questions/71803793/how-do-i-add-a-google-font-to-a-jekyll-theme)
 
 # Landing page
 People section: 
@@ -35,9 +35,9 @@ People, Papers, Code, Blog
 
 # Lab meeting feedback
 - update bios for everyone
-- add lab's full name on home page
+- [x] add lab's full name on home page
 - update logos with color ones
-    - website
+    - [x] website
     - Github
 - Update CNAME
 - Live on Monday with URL (cdl.cs.ucla.edu)!
