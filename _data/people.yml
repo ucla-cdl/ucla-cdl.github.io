@@ -1,7 +1,7 @@
 prof-eunice:
   display_name: "Eunice Jun"
   role: faculty
-  image: assets/images/people/eunice-jun.png
+  image: assets/images/people/eunice-jun.webp
   title: Professor
   interests: HCI, all things data, causal inference, PL; tea, art, film
   website: "https://eunicemjun.com"
@@ -18,7 +18,7 @@ prof-eunice:
 grad-bielicke:
   display_name: "London Bielicke"
   role: grad
-  image: "assets/images/people/london-bielicke.png"
+  image: "assets/images/people/london-bielicke.webp"
   title: PhD Student
   interests: experimental design
   website: "https://londonmae.github.io/"
@@ -26,7 +26,7 @@ grad-bielicke:
 grad-xiao:
   display_name: "Yuwei Xiao"
   role: grad
-  image: "assets/images/people/yuwei-xiao.png"
+  image: "assets/images/people/yuwei-xiao.webp"
   title: PhD Student
   interests: domain knowledge in statistical analysis; sports (🏀⚽🏈), sitcoms, Xbox, music
   website: "https://xavierywx.github.io"
@@ -34,7 +34,7 @@ grad-xiao:
 grad-simon:
   display_name: "Brooke Simon"
   role: grad
-  image: "assets/images/people/brooke-simon.png"
+  image: "assets/images/people/brooke-simon.webp"
   title: MS Student
   interests: HCI for expansion of educational tools, hiking, mountains!
   website: tbd...
@@ -42,7 +42,7 @@ grad-simon:
 grad-mlsimon:
   display_name: "Michael Simon"
   role: grad
-  image: "assets/images/people/michael-simon.png"
+  image: "assets/images/people/michael-simon.webp"
   title: MS Student
   interests: Human-centered AI, AI for science, Agentic Systems
   website: https://mlsimon.com
@@ -55,7 +55,7 @@ grad-mlsimon:
 ugrad-chung:
   display_name: "Katie Yung Chung"
   role: ugrad
-  image: "assets/images/people/katie-yung-chung.png"
+  image: "assets/images/people/katie-yung-chung.webp"
   title: Undergraduate Student
   interests: exploring research; digital art & animation, film, music
   website: "https://bit.ly/katieyungchung"
