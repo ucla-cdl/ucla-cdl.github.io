@@ -1,12 +1,11 @@
-
 prof-eunice:
-    display_name: "Eunice Jun"
-    role: faculty
-    image: assets/images/people/eunice-jun.png
-    title: Professor
-    interests: HCI, all things data, causal inference, PL; tea, art, film
-    website: "https://eunicemjun.com"
-    github: emjun
+  display_name: "Eunice Jun"
+  role: faculty
+  image: assets/images/people/eunice-jun.png
+  title: Professor
+  interests: HCI, all things data, causal inference, PL; tea, art, film
+  website: "https://eunicemjun.com"
+  github: emjun
 
 # profx:
 #     display_name: "Professor X"
@@ -17,28 +16,36 @@ prof-eunice:
 #     bio: Professor
 
 grad-bielicke:
-    display_name: "London Bielicke"
-    role: grad
-    image: "assets/images/people/london-bielicke.png"
-    title: PhD Student
-    interests: experimental design
-    website: "https://londonmae.github.io/"
+  display_name: "London Bielicke"
+  role: grad
+  image: "assets/images/people/london-bielicke.png"
+  title: PhD Student
+  interests: experimental design
+  website: "https://londonmae.github.io/"
 
 grad-xiao:
-    display_name: "Yuwei Xiao"
-    role: grad
-    image: "assets/images/people/yuwei-xiao.png"
-    title: PhD Student
-    interests: domain knowledge in statistical analysis; sports (🏀⚽🏈), sitcoms, Xbox, music
-    website: "https://xavierywx.github.io"
+  display_name: "Yuwei Xiao"
+  role: grad
+  image: "assets/images/people/yuwei-xiao.png"
+  title: PhD Student
+  interests: domain knowledge in statistical analysis; sports (🏀⚽🏈), sitcoms, Xbox, music
+  website: "https://xavierywx.github.io"
 
 grad-simon:
-    display_name: "Brooke Simon"
-    role: grad
-    image: "assets/images/people/brooke-simon.png"
-    title: MS Student
-    interests: HCI for expansion of educational tools, hiking, mountains!
-    website: tbd...
+  display_name: "Brooke Simon"
+  role: grad
+  image: "assets/images/people/brooke-simon.png"
+  title: MS Student
+  interests: HCI for expansion of educational tools, hiking, mountains!
+  website: tbd...
+
+grad-mlsimon:
+  display_name: "Michael Simon"
+  role: grad
+  image: "assets/images/people/michael-simon.png"
+  title: MS Student
+  interests: Human-centered AI, AI for science, Agentic Systems
+  website: https://mlsimon.com
 
 # alum-a:
 #     display_name: "Alum A"
@@ -46,13 +53,12 @@ grad-simon:
 #     bio: "Ph.D., 2013. Now at Microsoft Research."
 
 ugrad-chung:
-    display_name: "Katie Yung Chung"
-    role: ugrad
-    image: "assets/images/people/katie-yung-chung.png"
-    title: Undergraduate Student
-    interests: exploring research; digital art & animation, film, music
-    website: "https://bit.ly/katieyungchung"
-
+  display_name: "Katie Yung Chung"
+  role: ugrad
+  image: "assets/images/people/katie-yung-chung.png"
+  title: Undergraduate Student
+  interests: exploring research; digital art & animation, film, music
+  website: "https://bit.ly/katieyungchung"
 # ugrad-alum-a:
 #     display_name: "Past Ugrad A"
 #     role: ugrad-alum
@@ -64,3 +70,4 @@ ugrad-chung:
 # collab-a:
 #     display_name: "Collaborator A"
 #     role: collab
+

@@ -27,8 +27,6 @@ role-tables:
   } */
 </style>
 
-<link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon">
-
 <div class="headline-with-icon">
   <img src="{{site.url}}/assets/images/cdl-icon.png" alt="CDL Icon">
   <h1>Computation & Discovery Lab</h1>

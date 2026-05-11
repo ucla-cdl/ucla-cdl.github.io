@@ -8,8 +8,6 @@ permalink: /publications/
         color: red;
     }
 </style>
-<link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon">
-
 ### Conference and journal papers
 ------------------------
 *signifies students

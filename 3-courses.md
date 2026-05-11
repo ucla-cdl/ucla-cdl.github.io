@@ -3,8 +3,6 @@ layout: page
 title: Courses
 permalink: /courses/
 ---
-<link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon">
-
 # CS 239 Introduction to Human-Computer Interaction
 For graduate students
 
