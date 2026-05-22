@@ -25,7 +25,7 @@ title: UCLA C&DL
 #   effectively to learn and make informed decisions that advance society.
 
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "ucla-cdl.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ucla-cdl.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: eunicemjun
 github_username: "ucla-cdl"
 
