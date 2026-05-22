@@ -27,8 +27,6 @@ role-tables:
   } */
 </style>
 
-<link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon">
-
 <div class="headline-with-icon">
   <img src="{{site.url}}/assets/images/cdl-icon.png" alt="CDL Icon">
   <h1>Computation & Discovery Lab</h1>
@@ -39,8 +37,8 @@ role-tables:
 We envision a future where anyone can use technology and data effectively to learn and make informed decisions that advance society.
 Our mission is to understand real-world users, design usable abstractions, and develop interactive reasoning approaches that empower people to make data-informed decisions.
 </div>
-<br>
-<div class="news">
+<!-- <br> -->
+<!-- <div class="news">
     We are looking for postdocs, PhD students, Master's students, and undergraduates to join our group!
     <br>
     What we're looking for: 
@@ -49,6 +47,19 @@ Our mission is to understand real-world users, design usable abstractions, and d
         <li style="font-weight:bold">PhD, Master's</li> Interest in HCI, data science, or programming languages research ➡ <a href="https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/">Apply to UCLA CS.</a> 
         <li style="font-weight:bold">UCLA Undergraduates</li> Interest in exploring HCI research, CS + X, data science ➡ <a href="https://forms.gle/K1bGJx1DScpt3cy88">Complete this interest form.</a>
     </ul> 
+</div>
+<br> -->
+
+## 🤘✨ COME to the Winter 2025 Final Showcase!
+<div class="news">
+Come learn what 10 teams designed and developed over the course of the quarter around the theme of
+<span style="font-weight:bold">Empowering users {with, through, about} data</span>.
+<br>
+What: Showcase of 10 HCI projects from our ✨brand new✨ grad HCI course!
+<br>
+When: <span style="font-weight:bold">Monday, March 17 @ 3:30-5:30pm</span>
+<br>
+Where: <span style="font-weight:bold"><a href="https://maps.app.goo.gl/7BEFgHiWrz1QGpXC6">Engineering VI First Floor</a></span> (<a href="https://maps.app.goo.gl/1wKC7wjJkT4zXRs77">Visitor Parking</a>)
 </div>
 
 <br>
@@ -67,7 +78,7 @@ Our mission is to understand real-world users, design usable abstractions, and d
 <div class="photo-row">
   {% for item in site.data.people %}
       {%assign person = item[1] %}
-      <div class="photo-item" stlye="height:200px; width:200px; overflow: hidden;">
+      <div class="photo-item">
         <img src="{{person.image}}"/>
         <div class="photo-info">
           <a class="photo-name" href="{{person.website}}">{{person.display_name}}</a>

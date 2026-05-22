@@ -2,12 +2,17 @@
 Code for lab website.
 
 ## For development
-Note: use ```dev``` branch
 1. [Install Ruby](https://jekyllrb.com/docs/installation/macos/)
 
-2. [Install Jekyll]((https://jekyllrb.com/docs/))
+2. Install dependencies:
+```sh
+bundle install
+```
 
-3. Serve website locally: ``bundle exec jekyll serve``
+3. Serve website locally:
+```sh
+bundle exec jekyll serve
+```
 
 4. Edit
 
@@ -17,32 +22,11 @@ Note: use ```dev``` branch
 
 
 ## For production
-Note: use ```gh-pages``` branch
-1. To build and generate files for hosting on Github pages: 
-``bundle exec jekyll build``
+GitHub Actions builds the site and deploys the generated `_site` artifact to GitHub Pages.
 
-2. Add Google Fonts to every HTML page's header: 
-```HTML
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+1. In the repository settings, set **Pages > Build and deployment > Source** to **GitHub Actions**.
+2. Push changes to `main`.
+3. Check the **Actions** tab for the `Build and deploy site` workflow.
+4. Check the live site after the workflow finishes.
 
-<style> @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap'); </style>
-```
-
-3. Add Google Analytics to every HTML page's header: 
-```HTML
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZBTHQG17YC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ZBTHQG17YC');
-</script>
-```
-
-4. Move the files in ```_site``` in ```dev``` branch into main/top level of ```gh-pages``` branch. 
-
-5. Git add, commit, push
-
-6. Check live!
+This site uses `jekyll-scholar`, which is not supported by GitHub Pages' default Jekyll builder. The Actions workflow runs the full Bundler/Jekyll build, then deploys the generated static site to Pages.
