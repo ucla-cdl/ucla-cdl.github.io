@@ -31,6 +31,14 @@ grad-xiao:
   interests: domain knowledge in statistical analysis; sports (🏀⚽🏈), sitcoms, Xbox, music
   website: "https://xavierywx.github.io"
 
+grad-mlsimon:
+  display_name: "Michael Simon"
+  role: grad
+  image: "assets/images/people/michael-simon.webp"
+  title: PhD Student
+  interests: Human-centered AI, AI for science, Agentic Systems
+  website: https://mlsimon.com
+
 grad-simon:
   display_name: "Brooke Simon"
   role: grad
@@ -38,14 +46,6 @@ grad-simon:
   title: MS Student
   interests: HCI for expansion of educational tools, hiking, mountains!
   website: tbd...
-
-grad-mlsimon:
-  display_name: "Michael Simon"
-  role: grad
-  image: "assets/images/people/michael-simon.webp"
-  title: MS Student
-  interests: Human-centered AI, AI for science, Agentic Systems
-  website: https://mlsimon.com
 
 # alum-a:
 #     display_name: "Alum A"
@@ -70,4 +70,3 @@ ugrad-chung:
 # collab-a:
 #     display_name: "Collaborator A"
 #     role: collab
-
